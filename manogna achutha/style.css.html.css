@@ -1,0 +1,19 @@
+*{
+    background-color: beige;
+}
+#tag_line3{
+    font-size: 20px;
+    text-decoration: underline;
+    background-color: cadetblue;
+}
+#tag_line4{
+    font-size: 20px;
+    background-color: aquamarine;
+    text-decoration: underline;
+}
+#tag_line5{
+    font-size: 20px;
+    text-decoration: underline;
+    background-color: rgb(171, 171, 38);
+
+}
